@@ -1,16 +1,11 @@
 ### Hello and welcome to my page!
+I'm Liam, a 24 year old Software Engineering student!
 
-<!--
-**LMKH/LMKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently enrolled on HyperionDev's "Software Engineering Bootcamp".
+On my Github you will see my projects and be able to read my reasoning and logic behind my projects on their corrosponding README pages.
 
-Here are some ideas to get you started:
+I am very new to Github, so please be patient & nice!
 
-- 🔭 I’m currently working on ...Capstone projetcs
-- 🌱 I’m currently learning ...Software Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...He / Him
-- ⚡ Fun fact: ...I love learning new languages
--->
+Thanks,
+
+Liam Kavanagh
