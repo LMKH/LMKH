@@ -7,7 +7,7 @@ I love to use lots of comments to help me learn and to help people understand an
 
 Making things as user-friendly as possible is my goal!
 
-In my 'Project' repository is where you will find my portfolio of work.
+In my 'Projects' repository is where you will find my portfolio of work.
 
 I am very new to Github, so please be patient & nice! #python
 
