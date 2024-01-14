@@ -9,8 +9,6 @@ Making things as user-friendly as possible is my goal!
 
 In my 'Projects' repository is where you will find my portfolio of work.
 
-I am very new to Github, so please be patient & nice! #python
-
 Thanks,
 
 Liam Kavanagh
