@@ -1,9 +1,9 @@
 ### Hello and welcome to my page!
 
-I have completed and passed HyperionDev's "Software Engineering Bootcamp". On my Github you will see my projects and be able to read the reasoning and logic behind my projects on their corresponding README pages. I love to use lots of comments to help me learn and to help people understand and follow along with me.
+I am a graduate of HyperionDev's Software Engineering Bootcamp. On my GitHub, you'll find a variety of projects showcasing my skills and growth as a software developer. Each project is accompanied by detailed README pages that explain the reasoning and logic behind my work.
 
-Making things as user-friendly as possible is my goal!
+I am passionate about writing clear, clean and comprehensive comments in my code to facilitate learning and make my projects easy to follow. My primary goal is to create user-friendly solutions that are accessible to all.
 
-Thanks,
+Thank you for visiting my GitHub!
 
-Liam Kavanagh
+Liam
