@@ -1,11 +1,11 @@
 ### Hello and welcome to my page!
 
-I am a graduate of HyperionDev's Software Engineering Bootcamp. On my GitHub, you'll find a variety of projects showcasing my skills and growth as a software developer. Each project is accompanied by detailed README pages that explain the reasoning and logic behind my work.
+I'm a junior full-stack developer with a passion for building clean, efficient, and user-friendly programmes. My projects span Python, HTML & CSS, and Java, each reflecting my journey of growth and continuous learning.
 
-In the past year, I transitioned into web development, building on a diverse skill set honed through hands-on experience and continuous learning.
+You'll find here well-documented projects with README files explaining the logic behind my work. Clean, well-commented code that prioritises readability and best practices. A mix of personal projects and practical solutions aimed at making technology more accessible.
 
-I am passionate about writing clear, clean and comprehensive comments in my code to facilitate learning and make my projects easy to follow. My primary goal is to create user-friendly solutions that are accessible to all.
+I'm always exploring new technologies and refining my skills. Feel free to check out my work!
 
-Thank you for visiting my GitHub!
+Thanks for stopping by!
 
 Liam
